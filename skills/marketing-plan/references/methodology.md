@@ -236,8 +236,8 @@ Compile everything into `research.md` with this structure:
 - Investor pressure points
 - Constraints
 
-## Audit-marketing scores
-[If run, paste section scores. If not run, mark "lens used, not formal audit."]
+## Current-state rubric scores
+[17 section scores using `references/current-state-rubric.md`. If a prior scored audit exists, paste those scores. Otherwise mark "scored from materials."]
 
 ## Materials read
 [List of files in materials/ + when read]
